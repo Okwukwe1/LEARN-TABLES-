@@ -1,0 +1,17 @@
+table,th,td{
+    border:1px solid black;   
+}
+th{
+    text-align: center;
+}
+tr{
+    height: 20px;
+}
+th,td {
+    padding: 15px;
+}
+tr:hover {background-color: azure;}
+
+body{
+    background-color: rgb(242, 242, 242);
+}
